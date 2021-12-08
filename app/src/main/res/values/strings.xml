@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Event Management</string>
+
+    //welcome view
+    <string name="welcome_title">Welcome to <br>Event Management</br></string>
+    <string name="get_started">Get Started</string>
+
+    //Login View
+    <string name="login_header">Login</string>
+    <string name="email_label">Enter Your Email:</string>
+    <string name="password_label">Enter Your Password:</string>
+    <string name="login_button">Login</string>
+    <string name="new_user_label">Don\'t have an account?</string>
+    <string name="register_now_button">Register Now!</string>
+
+    //Register View
+    <string name="register_header">Join The Team</string>
+    <string name="reg_name_label">Enter Your Full Name:</string>
+    <string name="reg_email_label">Enter Your Email:</string>
+    <string name="reg_password_label">Enter Your Password:</string>
+    <string name="register_button">Register</string>
+    <string name="existing_user_label">Have an account?</string>
+    <string name="login_now">Login</string>
+
+</resources>
